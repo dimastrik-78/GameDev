@@ -20,7 +20,6 @@ public class TimeManager : MonoBehaviour
     private CursorManager CM;
     private AudioManager AM;
 
-    // Start is called before the first frame update
     private void Awake()
     {
         CM = FindObjectOfType<CursorManager>();
@@ -35,20 +34,19 @@ public class TimeManager : MonoBehaviour
         NewDay();
     }
 
-    // Update is called once per frame
     void Update()
     {
         if ((TimeCount >= 22 * MultiplierTime / 24) || (TimeCount <= 6 * MultiplierTime / 24)) TimeToSleep = true;
         else TimeToSleep = false;
 
-        DayText.text = "День " + DayCount.ToString();
+        DayText.text = "Day " + DayCount.ToString();
 
         TimeCount += 1 * Time.deltaTime;
         if (TimeCount >= MultiplierTime)
         {
             TimeCount = 0;
             HalfDay++;
-            if (HalfDay >=1)
+            if (HalfDay >= 1)
             {
                 DayCount++;
                 DM.newdialogscount += CountNewQuestEveryDay;

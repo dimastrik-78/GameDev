@@ -22,7 +22,6 @@ public class StaminaManager : MonoBehaviour
     private MoveController MC;
     private CursorManager CM;
 
-    // Start is called before the first frame update
     private void Awake()
     {
         MC = FindObjectOfType<MoveController>();
@@ -38,7 +37,6 @@ public class StaminaManager : MonoBehaviour
         NoSleep = false;
     }
 
-    // Update is called once per frame
     void Update()
     {
         BarImage.fillAmount = Stamina/(MaxStamina-MinStamina);
@@ -54,7 +52,7 @@ public class StaminaManager : MonoBehaviour
         
         if (ColorAlpha < 255 && YesSleep == false && NoSleep == false)
         {
-            AlphaTimer -= 300 * Time.deltaTime;
+            AlphaTimer -= 2000 * Time.deltaTime;
             if(AlphaTimer <= 0)
             {
                 ColorAlpha += 1;

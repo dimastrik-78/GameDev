@@ -38,12 +38,12 @@ public class CharacterOpportunities : MonoBehaviour
                 ObjectToCollect otc = hit.collider.GetComponent<ObjectToCollect>();
                 if (TM.CanUpgrade(otc, IM.cells[12].ItemType) == false)
                 {
-                    CM.CursorTextOutput("Собрать", IP.CollectObject);
+                    CM.CursorTextOutput("Collect", IP.CollectObject);
                     if (Input.GetKeyDown(IP.CollectObject)) CollectObject(otc, CanCollect(otc));
                 }
                 else
                 {
-                    CM.CursorTextOutput("Улучшить", IP.UpgradeObject);
+                    CM.CursorTextOutput("Improve", IP.UpgradeObject);
                     if (Input.GetKeyDown(IP.UpgradeObject))
                     {
                         TM.UpgradeFarm(otc, SM);
@@ -53,7 +53,7 @@ public class CharacterOpportunities : MonoBehaviour
             }
             if (hit.collider.CompareTag("Grandma"))
             {
-                CM.CursorTextOutput("Поговорить", IP.SpeakToQuest);
+                CM.CursorTextOutput("talk", IP.SpeakToQuest);
                 if (Input.GetKeyDown(IP.SpeakToQuest))
                 {
                     if (DM.gameObject.activeSelf == false)
@@ -74,7 +74,7 @@ public class CharacterOpportunities : MonoBehaviour
             }
             if (hit.collider.CompareTag("Bed"))
             {
-                CM.CursorTextOutput("Спать", IP.Sleep);
+                CM.CursorTextOutput("Sleep", IP.Sleep);
                 if (IM.IsInvEmpty() == true)
                     if (Input.GetKeyDown(IP.Sleep)) SM.Sleeping = true;
             }

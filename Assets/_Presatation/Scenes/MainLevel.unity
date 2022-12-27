@@ -506,7 +506,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4452
+  m_Name: pb_Mesh-10828
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -840,7 +840,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4146
+  m_Name: pb_Mesh-10522
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1004,7 +1004,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4002
+  m_Name: pb_Mesh-10378
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1168,7 +1168,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1362
+  m_Name: pb_Mesh-7738
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1332,7 +1332,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2284
+  m_Name: pb_Mesh-8660
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1569,7 +1569,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4396
+  m_Name: pb_Mesh-10772
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1733,7 +1733,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4438
+  m_Name: pb_Mesh-10814
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1903,7 +1903,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3548
+  m_Name: pb_Mesh-9924
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -2142,7 +2142,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1278
+  m_Name: pb_Mesh-7654
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -2306,7 +2306,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2482
+  m_Name: pb_Mesh-8858
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -6595,7 +6595,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4160
+  m_Name: pb_Mesh-10536
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -6759,7 +6759,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1848
+  m_Name: pb_Mesh-8224
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -7015,7 +7015,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4290
+  m_Name: pb_Mesh-10666
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -7254,7 +7254,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2108
+  m_Name: pb_Mesh-8484
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -7763,7 +7763,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1890
+  m_Name: pb_Mesh-8266
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -8013,7 +8013,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4090
+  m_Name: pb_Mesh-10466
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -8177,7 +8177,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1570
+  m_Name: pb_Mesh-7946
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -8435,8 +8435,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -8464,7 +8463,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3798
+  m_Name: pb_Mesh-10174
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -8640,7 +8639,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1630
+  m_Name: pb_Mesh-8006
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -8804,7 +8803,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3942
+  m_Name: pb_Mesh-10318
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -8968,7 +8967,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3700
+  m_Name: pb_Mesh-10076
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -9132,7 +9131,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4368
+  m_Name: pb_Mesh-10744
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -9463,9 +9462,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 9627e1e35b2cba649bba014444fd51ad, type: 3}
   ObjectID: 2
-  ObjectDescription: "\u042D\u0442\u043E \u043F\u043E\u043C\u0438\u0434\u043E\u0440.
-    \u041C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
-    \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043B\u0435\u0439\u043A\u0438"
+  ObjectDescription: This is a tomato. Can be upgraded with a watering can
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -9479,7 +9476,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4332
+  m_Name: pb_Mesh-10708
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -9967,9 +9964,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 9627e1e35b2cba649bba014444fd51ad, type: 3}
   ObjectID: 2
-  ObjectDescription: "\u042D\u0442\u043E \u043F\u043E\u043C\u0438\u0434\u043E\u0440.
-    \u041C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
-    \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043B\u0435\u0439\u043A\u0438"
+  ObjectDescription: This is a tomato. Can be upgraded with a watering can
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -10010,9 +10005,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: a68ff57bdd9603c4dbf72d3bf80ce35a, type: 3}
   ObjectID: 6
-  ObjectDescription: "\u041F\u0448\u0435\u043D\u043E. \u041A\u043E\u0440\u043C\u0438
-    \u043A\u0443\u0440\u0438\u0446, \u0447\u0442\u043E\u0431\u044B \u043F\u043E\u043B\u0443\u0447\u0438\u0442\u044C
-    \u0431\u043E\u043B\u044C\u0448\u0435 \u044F\u0438\u0446."
+  ObjectDescription: Millet. Feed the chickens to get more eggs.
   CanStack: 0
   CollectStaminaRequirement: 0
   GettingCount: 1
@@ -10045,7 +10038,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3438
+  m_Name: pb_Mesh-9814
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -10595,7 +10588,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1320
+  m_Name: pb_Mesh-7696
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -10840,9 +10833,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 132aef67ca17abb45b4dad9e70c93377, type: 3}
   ObjectID: 3
-  ObjectDescription: "\u042D\u0442\u043E \u043A\u0443\u0440\u0438\u0446\u0430! \u0410
-    \u043A\u0430\u043A \u043E\u043D\u0430 \u043F\u043E\u043C\u0435\u0441\u0442\u0438\u043B\u0430\u0441\u044C
-    \u0432 \u0438\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044C?"
+  ObjectDescription: It's a chicken! How did it fit in inventory?
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -10960,8 +10951,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -10975,7 +10965,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1334
+  m_Name: pb_Mesh-7710
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -11233,9 +11223,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 9627e1e35b2cba649bba014444fd51ad, type: 3}
   ObjectID: 2
-  ObjectDescription: "\u042D\u0442\u043E \u043F\u043E\u043C\u0438\u0434\u043E\u0440.
-    \u041C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
-    \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043B\u0435\u0439\u043A\u0438"
+  ObjectDescription: This is a tomato. Can be upgraded with a watering can
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -11249,7 +11237,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3506
+  m_Name: pb_Mesh-9882
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -11581,7 +11569,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3770
+  m_Name: pb_Mesh-10146
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -11745,7 +11733,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4586
+  m_Name: pb_Mesh-10962
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -11909,7 +11897,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2192
+  m_Name: pb_Mesh-8568
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -12138,7 +12126,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C"
+  m_Text: Continue
 --- !u!222 &418547455
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12382,7 +12370,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4646
+  m_Name: pb_Mesh-11022
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -12546,7 +12534,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3654
+  m_Name: pb_Mesh-10030
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -12777,7 +12765,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4276
+  m_Name: pb_Mesh-10652
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -13017,7 +13005,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2122
+  m_Name: pb_Mesh-8498
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -13398,7 +13386,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0411\u0430\u0431\u0443\u0448\u043A\u0430"
+  m_text: Granny
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -13481,7 +13469,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3886
+  m_Name: pb_Mesh-10262
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -13839,9 +13827,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 9627e1e35b2cba649bba014444fd51ad, type: 3}
   ObjectID: 2
-  ObjectDescription: "\u042D\u0442\u043E \u043F\u043E\u043C\u0438\u0434\u043E\u0440.
-    \u041C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
-    \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043B\u0435\u0439\u043A\u0438"
+  ObjectDescription: This is a tomato. Can be upgraded with a watering can
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -18091,7 +18077,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3928
+  m_Name: pb_Mesh-10304
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -18436,7 +18422,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2150
+  m_Name: pb_Mesh-8526
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -18675,8 +18661,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -18690,7 +18675,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3830
+  m_Name: pb_Mesh-10206
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -18942,8 +18927,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -19046,8 +19030,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -19136,7 +19119,7 @@ MonoBehaviour:
   MaxDayCount: 5
   MultiplierTime: 350
   DayCount: 1
-  CountNewQuestEveryDay: 2
+  CountNewQuestEveryDay: 5
   ClockImage: {fileID: 859982751}
   StartDayTime: 32400
   TimeToSleep: 0
@@ -19245,7 +19228,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3682
+  m_Name: pb_Mesh-10058
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -20028,7 +20011,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1404
+  m_Name: pb_Mesh-7780
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -20347,7 +20330,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3914
+  m_Name: pb_Mesh-10290
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -20591,7 +20574,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1348
+  m_Name: pb_Mesh-7724
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -20820,7 +20803,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0414\u0410"
+  m_Text: YES
 --- !u!222 &607499251
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20904,7 +20887,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3714
+  m_Name: pb_Mesh-10090
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -21068,7 +21051,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2238
+  m_Name: pb_Mesh-8614
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -21232,7 +21215,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2270
+  m_Name: pb_Mesh-8646
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -21396,7 +21379,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2164
+  m_Name: pb_Mesh-8540
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -21640,7 +21623,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4410
+  m_Name: pb_Mesh-10786
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -21804,7 +21787,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2080
+  m_Name: pb_Mesh-8456
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -22217,9 +22200,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: f3295d8b9cd902848a8f9c1e82862979, type: 3}
   ObjectID: 1
-  ObjectDescription: "\u042D\u0442\u043E \u044F\u0439\u0446\u0430! ... \u041F\u043E\u0447\u0435\u043C\u0443
-    \u043D\u0430 \u0444\u043E\u043D\u0435 \u043D\u0430\u0447\u0430\u043B\u0430 \u0438\u0433\u0440\u0430\u0442\u044C
-    \u0414\u0438\u0441\u043A\u043E\u0442\u0435\u043A\u0430 \u0410\u0432\u0430\u0440\u0438\u044F?"
+  ObjectDescription: These are eggs! ... Why did Disco Accident start playing in
+    the background?
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -22233,7 +22215,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3492
+  m_Name: pb_Mesh-9868
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -22497,9 +22479,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 9627e1e35b2cba649bba014444fd51ad, type: 3}
   ObjectID: 2
-  ObjectDescription: "\u042D\u0442\u043E \u043F\u043E\u043C\u0438\u0434\u043E\u0440.
-    \u041C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
-    \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043B\u0435\u0439\u043A\u0438"
+  ObjectDescription: This is a tomato. Can be upgraded with a watering can
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -22589,7 +22569,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1292
+  m_Name: pb_Mesh-7668
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -22753,7 +22733,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4600
+  m_Name: pb_Mesh-10976
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -22917,7 +22897,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4044
+  m_Name: pb_Mesh-10420
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -23081,7 +23061,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4058
+  m_Name: pb_Mesh-10434
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -23399,7 +23379,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4706
+  m_Name: pb_Mesh-11082
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -23612,10 +23592,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   QuestNumber: 0
-  QuestDialogText: "\u041F\u0440\u0438\u0432\u0435\u0442, \u0432\u043D\u0443\u0447\u043E\u043A.
-    \u0418\u0434\u0438 \u0441\u043E\u0431\u0435\u0440\u0438 \u044F\u0431\u043B\u043E\u0447\u0435\u043A
-    \u0431\u0430\u0431\u0443\u0448\u043A\u0435."
-  QuestGUIText: "\u0421\u043E\u0431\u0440\u0430\u0442\u044C 20 \u044F\u0431\u043B\u043E\u043A"
+  QuestDialogText: Hello granddaughter. Go pick some apples for grandma.
+  QuestGUIText: Collect 20 apples
   WhichObjectsCollect: 07000000
   HowManyObjectsCollect: 14000000
   WhichObjectsUpgrade: 
@@ -23634,9 +23612,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   QuestNumber: 1
-  QuestDialogText: "\u0412\u043E\u0437\u043C\u0438 \u043F\u0448\u0435\u043D\u0430
-    -\u043F\u043E\u043A\u043E\u0440\u043C\u0438 \u043A\u0443\u0440\u043E\u0447\u0435\u043A."
-  QuestGUIText: "\u041F\u043E\u043A\u043E\u0440\u043C\u0438\u0442\u044C 8 \u043A\u0443\u0440\u0438\u0446"
+  QuestDialogText: Chickens are so fast, can you catch them?
+  QuestGUIText: Catch 8 chickens
   WhichObjectsCollect: 03000000
   HowManyObjectsCollect: 08000000
   WhichObjectsUpgrade: 
@@ -23655,9 +23632,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   QuestNumber: 2
-  QuestDialogText: "\u0412\u044B\u043A\u043E\u043F\u0430\u0439 \u0440\u0435\u0434\u0438\u0441\u043A\u0443."
-  QuestGUIText: "\u0412\u044B\u043A\u043E\u043F\u0430\u0442\u044C \u0440\u0435\u0434\u0438\u0441\u043A\u0443
-    20"
+  QuestDialogText: Dig up the radish
+  QuestGUIText: Dig up a radish 20
   WhichObjectsCollect: 09000000
   HowManyObjectsCollect: 14000000
   WhichObjectsUpgrade: 
@@ -23676,11 +23652,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   QuestNumber: 3
-  QuestDialogText: "\u041F\u043E\u043C\u043E\u0433\u0438 \u043F\u043E\u043B\u0438\u0442\u044C
-    \u043F\u043E\u043C\u0438\u0434\u043E\u0440\u044B. \u0423 \u043C\u0435\u043D\u044F
-    \u0441\u043F\u0438\u043D\u0430 \u0441\u0438\u043B\u044C\u043D\u043E \u0431\u043E\u043B\u0438\u0442"
-  QuestGUIText: "\u041F\u043E\u043B\u0438\u0442\u044C 15 \u043A\u0443\u0441\u0442\u043E\u0432
-    \u0441 \u043F\u043E\u043C\u0438\u0434\u043E\u0440\u0430\u043C\u0438"
+  QuestDialogText: Help water the tomatoes. My back hurts a lot
+  QuestGUIText: Water 15 bushes with tomatoes
   WhichObjectsCollect: 02000000
   HowManyObjectsCollect: 2d000000
   WhichObjectsUpgrade: 
@@ -23699,10 +23672,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   QuestNumber: 4
-  QuestDialogText: "\u041D\u0443\u0436\u043D\u043E \u0441\u043E\u0431\u0440\u0430\u0442\u044C
-    \u044F\u0439\u0446\u0430 \u0443 \u043A\u0443\u0440\u043E\u0447\u0435\u043A. "
-  QuestGUIText: "\u0421\u043E\u0431\u0440\u0430\u0442\u044C 24 \u044F\u0439\u0446\u0430
-    \u0441 \u043A\u043B\u0430\u0434\u043E\u043A"
+  QuestDialogText: You need to collect eggs from chickens.
+  QuestGUIText: Collect 24 eggs from clutches
   WhichObjectsCollect: 01000000
   HowManyObjectsCollect: 18000000
   WhichObjectsUpgrade: 
@@ -23795,9 +23766,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 132aef67ca17abb45b4dad9e70c93377, type: 3}
   ObjectID: 3
-  ObjectDescription: "\u042D\u0442\u043E \u043A\u0443\u0440\u0438\u0446\u0430! \u0410
-    \u043A\u0430\u043A \u043E\u043D\u0430 \u043F\u043E\u043C\u0435\u0441\u0442\u0438\u043B\u0430\u0441\u044C
-    \u0432 \u0438\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044C?"
+  ObjectDescription: It's a chicken! How did it fit in inventory?
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -23839,7 +23808,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1510
+  m_Name: pb_Mesh-7886
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -24153,7 +24122,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4572
+  m_Name: pb_Mesh-10948
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -24317,7 +24286,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4540
+  m_Name: pb_Mesh-10916
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -24481,7 +24450,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1932
+  m_Name: pb_Mesh-8308
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -24645,7 +24614,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3626
+  m_Name: pb_Mesh-10002
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -24809,7 +24778,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3812
+  m_Name: pb_Mesh-10188
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -25040,7 +25009,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1496
+  m_Name: pb_Mesh-7872
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -25204,7 +25173,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4318
+  m_Name: pb_Mesh-10694
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -29538,8 +29507,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -29567,7 +29535,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2312
+  m_Name: pb_Mesh-8688
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -29825,9 +29793,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 9627e1e35b2cba649bba014444fd51ad, type: 3}
   ObjectID: 2
-  ObjectDescription: "\u042D\u0442\u043E \u043F\u043E\u043C\u0438\u0434\u043E\u0440.
-    \u041C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
-    \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043B\u0435\u0439\u043A\u0438"
+  ObjectDescription: This is a tomato. Can be upgraded with a watering can
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -29973,7 +29939,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1876
+  m_Name: pb_Mesh-8252
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -30137,7 +30103,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4220
+  m_Name: pb_Mesh-10596
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -35002,7 +34968,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2358
+  m_Name: pb_Mesh-8734
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -35319,9 +35285,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 132aef67ca17abb45b4dad9e70c93377, type: 3}
   ObjectID: 3
-  ObjectDescription: "\u042D\u0442\u043E \u043A\u0443\u0440\u0438\u0446\u0430! \u0410
-    \u043A\u0430\u043A \u043E\u043D\u0430 \u043F\u043E\u043C\u0435\u0441\u0442\u0438\u043B\u0430\u0441\u044C
-    \u0432 \u0438\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044C?"
+  ObjectDescription: It's a chicken! How did it fit in inventory?
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -35349,7 +35313,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4248
+  m_Name: pb_Mesh-10624
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -35513,7 +35477,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3784
+  m_Name: pb_Mesh-10160
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -35811,7 +35775,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3410
+  m_Name: pb_Mesh-9786
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -36203,8 +36167,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -36283,8 +36246,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041F\u0435\u0440\u0435\u0437\u0430\u043F\u0443\u0441\u0442\u0438\u0442\u044C
-    \u0443\u0440\u043E\u0432\u0435\u043D\u044C"
+  m_Text: Restart level
 --- !u!222 &962267216
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -36433,7 +36395,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1390
+  m_Name: pb_Mesh-7766
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -36685,8 +36647,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -36781,7 +36742,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3742
+  m_Name: pb_Mesh-10118
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -37012,7 +36973,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4752
+  m_Name: pb_Mesh-11128
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -37252,7 +37213,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3354
+  m_Name: pb_Mesh-9730
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -37430,9 +37391,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 132aef67ca17abb45b4dad9e70c93377, type: 3}
   ObjectID: 3
-  ObjectDescription: "\u042D\u0442\u043E \u043A\u0443\u0440\u0438\u0446\u0430! \u0410
-    \u043A\u0430\u043A \u043E\u043D\u0430 \u043F\u043E\u043C\u0435\u0441\u0442\u0438\u043B\u0430\u0441\u044C
-    \u0432 \u0438\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044C?"
+  ObjectDescription: It's a chicken! How did it fit in inventory?
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -37460,7 +37419,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2390
+  m_Name: pb_Mesh-8766
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -37689,7 +37648,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  m_Text: Description
 --- !u!222 &1001817120
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -37774,7 +37733,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4660
+  m_Name: pb_Mesh-11036
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -37958,8 +37917,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -38087,7 +38045,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4554
+  m_Name: pb_Mesh-10930
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -38251,7 +38209,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1862
+  m_Name: pb_Mesh-8238
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -38415,7 +38373,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4494
+  m_Name: pb_Mesh-10870
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -38739,7 +38697,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2404
+  m_Name: pb_Mesh-8780
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -39000,7 +38958,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4174
+  m_Name: pb_Mesh-10550
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -39164,7 +39122,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1376
+  m_Name: pb_Mesh-7752
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -39492,8 +39450,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -39507,7 +39464,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2496
+  m_Name: pb_Mesh-8872
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -39805,7 +39762,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4016
+  m_Name: pb_Mesh-10392
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -39969,7 +39926,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2066
+  m_Name: pb_Mesh-8442
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -40133,7 +40090,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3640
+  m_Name: pb_Mesh-10016
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -40391,9 +40348,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 9627e1e35b2cba649bba014444fd51ad, type: 3}
   ObjectID: 2
-  ObjectDescription: "\u042D\u0442\u043E \u043F\u043E\u043C\u0438\u0434\u043E\u0440.
-    \u041C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
-    \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043B\u0435\u0439\u043A\u0438"
+  ObjectDescription: This is a tomato. Can be upgraded with a watering can
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -40650,8 +40605,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -40754,8 +40708,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -40886,9 +40839,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: f3295d8b9cd902848a8f9c1e82862979, type: 3}
   ObjectID: 1
-  ObjectDescription: "\u042D\u0442\u043E \u044F\u0439\u0446\u0430! ... \u041F\u043E\u0447\u0435\u043C\u0443
-    \u043D\u0430 \u0444\u043E\u043D\u0435 \u043D\u0430\u0447\u0430\u043B\u0430 \u0438\u0433\u0440\u0430\u0442\u044C
-    \u0414\u0438\u0441\u043A\u043E\u0442\u0435\u043A\u0430 \u0410\u0432\u0430\u0440\u0438\u044F?"
+  ObjectDescription: These are eggs! ... Why did Disco Accident start playing in
+    the background?
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -41047,7 +40999,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0425\u043E\u0442\u0438\u0442\u0435 \u0441\u043F\u0430\u0442\u044C?"
+  m_Text: Do you want to sleep?
 --- !u!222 &1135433177
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -41062,7 +41014,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4526
+  m_Name: pb_Mesh-10902
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -41492,7 +41444,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0418\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044C"
+  m_Text: Inventory
 --- !u!222 &1155446133
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -41826,7 +41778,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1418
+  m_Name: pb_Mesh-7794
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -41990,7 +41942,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1918
+  m_Name: pb_Mesh-8294
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -42242,8 +42194,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -42271,7 +42222,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4132
+  m_Name: pb_Mesh-10508
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -42435,7 +42386,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2052
+  m_Name: pb_Mesh-8428
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -42599,7 +42550,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3424
+  m_Name: pb_Mesh-9800
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -42857,8 +42808,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -42960,8 +42910,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -43083,9 +43032,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 9627e1e35b2cba649bba014444fd51ad, type: 3}
   ObjectID: 2
-  ObjectDescription: "\u042D\u0442\u043E \u043F\u043E\u043C\u0438\u0434\u043E\u0440.
-    \u041C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
-    \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043B\u0435\u0439\u043A\u0438"
+  ObjectDescription: This is a tomato. Can be upgraded with a watering can
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -43099,7 +43046,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1556
+  m_Name: pb_Mesh-7932
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -43263,7 +43210,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2252
+  m_Name: pb_Mesh-8628
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -43502,8 +43449,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -43517,7 +43463,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4072
+  m_Name: pb_Mesh-10448
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -43775,9 +43721,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 9627e1e35b2cba649bba014444fd51ad, type: 3}
   ObjectID: 2
-  ObjectDescription: "\u042D\u0442\u043E \u043F\u043E\u043C\u0438\u0434\u043E\u0440.
-    \u041C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
-    \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043B\u0435\u0439\u043A\u0438"
+  ObjectDescription: This is a tomato. Can be upgraded with a watering can
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -44009,8 +43953,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -44112,8 +44055,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -44141,7 +44083,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3756
+  m_Name: pb_Mesh-10132
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -44311,7 +44253,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3612
+  m_Name: pb_Mesh-9988
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -44730,7 +44672,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4614
+  m_Name: pb_Mesh-10990
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -45233,8 +45175,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -45329,9 +45270,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 132aef67ca17abb45b4dad9e70c93377, type: 3}
   ObjectID: 3
-  ObjectDescription: "\u042D\u0442\u043E \u043A\u0443\u0440\u0438\u0446\u0430! \u0410
-    \u043A\u0430\u043A \u043E\u043D\u0430 \u043F\u043E\u043C\u0435\u0441\u0442\u0438\u043B\u0430\u0441\u044C
-    \u0432 \u0438\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044C?"
+  ObjectDescription: It's a chicken! How did it fit in inventory?
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -45359,7 +45298,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2344
+  m_Name: pb_Mesh-8720
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -45623,7 +45562,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3974
+  m_Name: pb_Mesh-10350
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -45787,7 +45726,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3960
+  m_Name: pb_Mesh-10336
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -46016,7 +45955,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0412\u044B\u0439\u0442\u0438"
+  m_Text: Exit
 --- !u!222 &1365414843
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -46031,7 +45970,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3382
+  m_Name: pb_Mesh-9758
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -46195,7 +46134,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4674
+  m_Name: pb_Mesh-11050
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -46373,8 +46312,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -46549,7 +46487,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4734
+  m_Name: pb_Mesh-11110
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -46713,7 +46651,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3900
+  m_Name: pb_Mesh-10276
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -46877,7 +46815,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4234
+  m_Name: pb_Mesh-10610
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -47116,8 +47054,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -47202,7 +47139,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0414\u0435\u043D\u044C 1"
+  m_Text: Day 1
 --- !u!222 &1455414804
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -47217,7 +47154,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2136
+  m_Name: pb_Mesh-8512
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -47387,7 +47324,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2094
+  m_Name: pb_Mesh-8470
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -47628,7 +47565,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3534
+  m_Name: pb_Mesh-9910
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -47867,8 +47804,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -47909,9 +47845,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: f3295d8b9cd902848a8f9c1e82862979, type: 3}
   ObjectID: 1
-  ObjectDescription: "\u042D\u0442\u043E \u044F\u0439\u0446\u0430! ... \u041F\u043E\u0447\u0435\u043C\u0443
-    \u043D\u0430 \u0444\u043E\u043D\u0435 \u043D\u0430\u0447\u0430\u043B\u0430 \u0438\u0433\u0440\u0430\u0442\u044C
-    \u0414\u0438\u0441\u043A\u043E\u0442\u0435\u043A\u0430 \u0410\u0432\u0430\u0440\u0438\u044F?"
+  ObjectDescription: These are eggs! ... Why did Disco Accident start playing in
+    the background?
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -48023,9 +47958,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 506bb363512365645889faeb6c614d17, type: 3}
   ObjectID: 5
-  ObjectDescription: "\u042D\u0442\u043E \u043B\u0435\u0439\u043A\u0430. \u041F\u043E\u0438\u0433\u0440\u0430\u0439
-    \u0432 \u0431\u043E\u0433\u0430 - \u0443\u0441\u0442\u0440\u043E\u0439 \u043F\u043E\u043C\u0438\u0434\u043E\u0440\u0430\u043C
-    \u043F\u043E\u0442\u043E\u043F!"
+  ObjectDescription: This is a watering can. Play God - make the tomatoes flood!
   CanStack: 0
   CollectStaminaRequirement: 0
   GettingCount: 1
@@ -48039,7 +47972,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1538
+  m_Name: pb_Mesh-7914
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -48268,7 +48201,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041F\u0430\u0443\u0437\u0430"
+  m_Text: Pause
 --- !u!222 &1481525964
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -48473,7 +48406,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4188
+  m_Name: pb_Mesh-10564
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -48637,7 +48570,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1584
+  m_Name: pb_Mesh-7960
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -48801,7 +48734,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3844
+  m_Name: pb_Mesh-10220
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -49275,7 +49208,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2418
+  m_Name: pb_Mesh-8794
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -49514,7 +49447,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4512
+  m_Name: pb_Mesh-10888
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -49678,7 +49611,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3728
+  m_Name: pb_Mesh-10104
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -49848,7 +49781,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4118
+  m_Name: pb_Mesh-10494
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -50106,9 +50039,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 9627e1e35b2cba649bba014444fd51ad, type: 3}
   ObjectID: 2
-  ObjectDescription: "\u042D\u0442\u043E \u043F\u043E\u043C\u0438\u0434\u043E\u0440.
-    \u041C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
-    \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043B\u0435\u0439\u043A\u0438"
+  ObjectDescription: This is a tomato. Can be upgraded with a watering can
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -50122,7 +50053,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4480
+  m_Name: pb_Mesh-10856
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -50351,7 +50282,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0417\u0430\u0434\u0430\u043D\u0438\u044F"
+  m_Text: Tasks
 --- !u!222 &1570445939
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -50861,7 +50792,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4632
+  m_Name: pb_Mesh-11008
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -51101,8 +51032,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -51210,8 +51140,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -51319,9 +51248,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 9627e1e35b2cba649bba014444fd51ad, type: 3}
   ObjectID: 2
-  ObjectDescription: "\u042D\u0442\u043E \u043F\u043E\u043C\u0438\u0434\u043E\u0440.
-    \u041C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
-    \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043B\u0435\u0439\u043A\u0438"
+  ObjectDescription: This is a tomato. Can be upgraded with a watering can
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -51392,7 +51319,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2432
+  m_Name: pb_Mesh-8808
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -51556,7 +51483,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3598
+  m_Name: pb_Mesh-9974
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -51720,7 +51647,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3452
+  m_Name: pb_Mesh-9828
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -51884,7 +51811,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2298
+  m_Name: pb_Mesh-8674
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -52048,7 +51975,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1464
+  m_Name: pb_Mesh-7840
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -52212,7 +52139,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2538
+  m_Name: pb_Mesh-8914
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -52451,8 +52378,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -52547,9 +52473,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 132aef67ca17abb45b4dad9e70c93377, type: 3}
   ObjectID: 3
-  ObjectDescription: "\u042D\u0442\u043E \u043A\u0443\u0440\u0438\u0446\u0430! \u0410
-    \u043A\u0430\u043A \u043E\u043D\u0430 \u043F\u043E\u043C\u0435\u0441\u0442\u0438\u043B\u0430\u0441\u044C
-    \u0432 \u0438\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044C?"
+  ObjectDescription: It's a chicken! How did it fit in inventory?
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -52577,7 +52501,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1436
+  m_Name: pb_Mesh-7812
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -52840,9 +52764,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 9627e1e35b2cba649bba014444fd51ad, type: 3}
   ObjectID: 2
-  ObjectDescription: "\u042D\u0442\u043E \u043F\u043E\u043C\u0438\u0434\u043E\u0440.
-    \u041C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
-    \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043B\u0435\u0439\u043A\u0438"
+  ObjectDescription: This is a tomato. Can be upgraded with a watering can
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -52856,7 +52778,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3668
+  m_Name: pb_Mesh-10044
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -53108,8 +53030,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -53137,7 +53058,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3396
+  m_Name: pb_Mesh-9772
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -53301,7 +53222,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1306
+  m_Name: pb_Mesh-7682
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -53541,7 +53462,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1478
+  m_Name: pb_Mesh-7854
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -54028,8 +53949,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -54108,7 +54028,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041D\u0415\u0422"
+  m_Text: NO
 --- !u!222 &1735511976
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -54223,9 +54143,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 9627e1e35b2cba649bba014444fd51ad, type: 3}
   ObjectID: 2
-  ObjectDescription: "\u042D\u0442\u043E \u043F\u043E\u043C\u0438\u0434\u043E\u0440.
-    \u041C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
-    \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043B\u0435\u0439\u043A\u0438"
+  ObjectDescription: This is a tomato. Can be upgraded with a watering can
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -54327,8 +54245,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -54383,9 +54300,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: f3295d8b9cd902848a8f9c1e82862979, type: 3}
   ObjectID: 1
-  ObjectDescription: "\u042D\u0442\u043E \u044F\u0439\u0446\u0430! ... \u041F\u043E\u0447\u0435\u043C\u0443
-    \u043D\u0430 \u0444\u043E\u043D\u0435 \u043D\u0430\u0447\u0430\u043B\u0430 \u0438\u0433\u0440\u0430\u0442\u044C
-    \u0414\u0438\u0441\u043A\u043E\u0442\u0435\u043A\u0430 \u0410\u0432\u0430\u0440\u0438\u044F?"
+  ObjectDescription: These are eggs! ... Why did Disco Accident start playing in
+    the background?
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -54413,8 +54329,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -54442,7 +54357,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2552
+  m_Name: pb_Mesh-8928
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -54606,7 +54521,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2178
+  m_Name: pb_Mesh-8554
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -54845,7 +54760,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3858
+  m_Name: pb_Mesh-10234
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -55084,7 +54999,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4030
+  m_Name: pb_Mesh-10406
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -55405,7 +55320,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0422\u0435\u043A\u0441\u0442 \u043F\u043E\u0434 \u043A\u0443\u0440\u0441\u043E\u0440\u043E\u043C"
+  m_Text: Text under cursor
 --- !u!222 &1796370332
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -55420,7 +55335,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3988
+  m_Name: pb_Mesh-10364
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -55730,7 +55645,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4720
+  m_Name: pb_Mesh-11096
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -55982,8 +55897,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -56076,7 +55990,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0422\u0435\u043A\u0441\u0442 \u043D\u0430\u0434 \u043A\u0443\u0440\u0441\u043E\u0440\u043E\u043C"
+  m_Text: Text above cursor
 --- !u!222 &1816196123
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -56091,7 +56005,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4354
+  m_Name: pb_Mesh-10730
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -56255,7 +56169,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1524
+  m_Name: pb_Mesh-7900
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -56433,8 +56347,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -56448,7 +56361,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2210
+  m_Name: pb_Mesh-8586
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -56941,7 +56854,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3584
+  m_Name: pb_Mesh-9960
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -57105,7 +57018,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1644
+  m_Name: pb_Mesh-8020
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -57499,7 +57412,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2510
+  m_Name: pb_Mesh-8886
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -57902,8 +57815,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -58006,8 +57918,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -58324,8 +58235,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -58441,8 +58351,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -58551,9 +58460,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 132aef67ca17abb45b4dad9e70c93377, type: 3}
   ObjectID: 3
-  ObjectDescription: "\u042D\u0442\u043E \u043A\u0443\u0440\u0438\u0446\u0430! \u0410
-    \u043A\u0430\u043A \u043E\u043D\u0430 \u043F\u043E\u043C\u0435\u0441\u0442\u0438\u043B\u0430\u0441\u044C
-    \u0432 \u0438\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044C?"
+  ObjectDescription: It's a chicken! How did it fit in inventory?
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -58694,7 +58601,7 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
+  near clip plane: 0.01
   far clip plane: 1000
   field of view: 60
   orthographic: 0
@@ -58720,7 +58627,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3872
+  m_Name: pb_Mesh-10248
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -58884,7 +58791,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1904
+  m_Name: pb_Mesh-8280
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -59048,7 +58955,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4202
+  m_Name: pb_Mesh-10578
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -59287,8 +59194,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -59302,7 +59208,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1658
+  m_Name: pb_Mesh-8034
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -59466,7 +59372,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4262
+  m_Name: pb_Mesh-10638
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -59816,9 +59722,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: f3295d8b9cd902848a8f9c1e82862979, type: 3}
   ObjectID: 1
-  ObjectDescription: "\u042D\u0442\u043E \u044F\u0439\u0446\u0430! ... \u041F\u043E\u0447\u0435\u043C\u0443
-    \u043D\u0430 \u0444\u043E\u043D\u0435 \u043D\u0430\u0447\u0430\u043B\u0430 \u0438\u0433\u0440\u0430\u0442\u044C
-    \u0414\u0438\u0441\u043A\u043E\u0442\u0435\u043A\u0430 \u0410\u0432\u0430\u0440\u0438\u044F?"
+  ObjectDescription: These are eggs! ... Why did Disco Accident start playing in
+    the background?
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -59832,7 +59737,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3368
+  m_Name: pb_Mesh-9744
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -60263,9 +60168,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 9627e1e35b2cba649bba014444fd51ad, type: 3}
   ObjectID: 2
-  ObjectDescription: "\u042D\u0442\u043E \u043F\u043E\u043C\u0438\u0434\u043E\u0440.
-    \u041C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
-    \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043B\u0435\u0439\u043A\u0438"
+  ObjectDescription: This is a tomato. Can be upgraded with a watering can
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -60367,8 +60270,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -60396,7 +60298,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4382
+  m_Name: pb_Mesh-10758
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -60560,7 +60462,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3520
+  m_Name: pb_Mesh-9896
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -60724,7 +60626,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4304
+  m_Name: pb_Mesh-10680
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -60888,7 +60790,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1834
+  m_Name: pb_Mesh-8210
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -61133,9 +61035,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 132aef67ca17abb45b4dad9e70c93377, type: 3}
   ObjectID: 3
-  ObjectDescription: "\u042D\u0442\u043E \u043A\u0443\u0440\u0438\u0446\u0430! \u0410
-    \u043A\u0430\u043A \u043E\u043D\u0430 \u043F\u043E\u043C\u0435\u0441\u0442\u0438\u043B\u0430\u0441\u044C
-    \u0432 \u0438\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044C?"
+  ObjectDescription: It's a chicken! How did it fit in inventory?
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -61190,9 +61090,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: f3295d8b9cd902848a8f9c1e82862979, type: 3}
   ObjectID: 1
-  ObjectDescription: "\u042D\u0442\u043E \u044F\u0439\u0446\u0430! ... \u041F\u043E\u0447\u0435\u043C\u0443
-    \u043D\u0430 \u0444\u043E\u043D\u0435 \u043D\u0430\u0447\u0430\u043B\u0430 \u0438\u0433\u0440\u0430\u0442\u044C
-    \u0414\u0438\u0441\u043A\u043E\u0442\u0435\u043A\u0430 \u0410\u0432\u0430\u0440\u0438\u044F?"
+  ObjectDescription: These are eggs! ... Why did Disco Accident start playing in
+    the background?
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -61286,7 +61185,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4424
+  m_Name: pb_Mesh-10800
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -61450,7 +61349,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1598
+  m_Name: pb_Mesh-7974
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -61783,9 +61682,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 9627e1e35b2cba649bba014444fd51ad, type: 3}
   ObjectID: 2
-  ObjectDescription: "\u042D\u0442\u043E \u043F\u043E\u043C\u0438\u0434\u043E\u0440.
-    \u041C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
-    \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043B\u0435\u0439\u043A\u0438"
+  ObjectDescription: This is a tomato. Can be upgraded with a watering can
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -61799,7 +61696,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2330
+  m_Name: pb_Mesh-8706
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -61990,9 +61887,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: f3295d8b9cd902848a8f9c1e82862979, type: 3}
   ObjectID: 1
-  ObjectDescription: "\u042D\u0442\u043E \u044F\u0439\u0446\u0430! ... \u041F\u043E\u0447\u0435\u043C\u0443
-    \u043D\u0430 \u0444\u043E\u043D\u0435 \u043D\u0430\u0447\u0430\u043B\u0430 \u0438\u0433\u0440\u0430\u0442\u044C
-    \u0414\u0438\u0441\u043A\u043E\u0442\u0435\u043A\u0430 \u0410\u0432\u0430\u0440\u0438\u044F?"
+  ObjectDescription: These are eggs! ... Why did Disco Accident start playing in
+    the background?
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -62006,7 +61902,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2524
+  m_Name: pb_Mesh-8900
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -62176,7 +62072,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1450
+  m_Name: pb_Mesh-7826
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -62400,8 +62296,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: aac0a16a159db9a4498e49b047d80953, type: 3}
   ObjectID: 9
-  ObjectDescription: "\u042D\u0442\u043E \u0440\u0435\u0434\u0438\u0441\u043A\u0430!
-    :)"
+  ObjectDescription: It's a radish! :)
   CanStack: 1
   CollectStaminaRequirement: 2
   GettingCount: 1
@@ -62415,7 +62310,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2372
+  m_Name: pb_Mesh-8748
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -62863,7 +62758,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1616
+  m_Name: pb_Mesh-7992
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -63162,8 +63057,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1
@@ -63191,7 +63085,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4692
+  m_Name: pb_Mesh-11068
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -63355,7 +63249,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2224
+  m_Name: pb_Mesh-8600
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -63519,7 +63413,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4104
+  m_Name: pb_Mesh-10480
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -63683,7 +63577,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4466
+  m_Name: pb_Mesh-10842
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -63847,7 +63741,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-3570
+  m_Name: pb_Mesh-9946
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -64011,7 +63905,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2566
+  m_Name: pb_Mesh-8942
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -64240,7 +64134,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0422\u0435\u043A\u0441\u0442 \u0434\u0438\u0430\u043B\u043E\u0433\u0430"
+  m_Text: Dialogue text
 --- !u!222 &2132091640
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -64435,7 +64329,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2468
+  m_Name: pb_Mesh-8844
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -64626,9 +64520,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: f3295d8b9cd902848a8f9c1e82862979, type: 3}
   ObjectID: 1
-  ObjectDescription: "\u042D\u0442\u043E \u044F\u0439\u0446\u0430! ... \u041F\u043E\u0447\u0435\u043C\u0443
-    \u043D\u0430 \u0444\u043E\u043D\u0435 \u043D\u0430\u0447\u0430\u043B\u0430 \u0438\u0433\u0440\u0430\u0442\u044C
-    \u0414\u0438\u0441\u043A\u043E\u0442\u0435\u043A\u0430 \u0410\u0432\u0430\u0440\u0438\u044F?"
+  ObjectDescription: These are eggs! ... Why did Disco Accident start playing in
+    the background?
   CanStack: 1
   CollectStaminaRequirement: 6
   GettingCount: 3
@@ -64735,9 +64628,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: a1c69db6720cc5b4c8ceba68954ee57d, type: 3}
   ObjectID: 4
-  ObjectDescription: "\u042D\u0442\u043E \u041B\u043E\u043F\u0430\u0442\u0430. \u0415\u0439
-    \u043C\u043E\u0436\u043D\u043E \u0443\u0434\u0430\u0440\u0438\u0442\u044C \u043A\u043E\u0434\u0435\u0440\u0430
-    \u0438\u043B\u0438 \u043F\u0440\u043E\u043F\u043E\u043B\u043E\u0442\u044C \u0440\u0435\u0434\u0438\u0441."
+  ObjectDescription: This is a shovel. She can hit a coder or weed a radish.
   CanStack: 0
   CollectStaminaRequirement: 0
   GettingCount: 1
@@ -65106,8 +64997,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectImage: {fileID: 21300000, guid: 788e453e5c72ed246856952bd4c0a91f, type: 3}
   ObjectID: 7
-  ObjectDescription: "\u0421\u043F\u0435\u043B\u043E\u0435, \u0441\u043E\u0447\u043D\u043E\u0435,
-    \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0435 \u044F\u0431\u043B\u043E\u043A\u043E."
+  ObjectDescription: Ripe, juicy, plump apple.
   CanStack: 1
   CollectStaminaRequirement: 3
   GettingCount: 1

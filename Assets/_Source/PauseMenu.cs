@@ -7,17 +7,11 @@ public class PauseMenu : MonoBehaviour
 {
     private MoveController MC;
 
-    // Start is called before the first frame update
     void Awake()
     {
         MC = FindObjectOfType<MoveController>();
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
     public void PauseOpenClose()
     {
         if (gameObject.activeSelf == false)
@@ -40,10 +34,10 @@ public class PauseMenu : MonoBehaviour
     }
     public void Restart()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
     public void Exit()
     {
-        Application.Quit();
+        SceneManager.LoadScene(0);
     }
 }

@@ -17,7 +17,6 @@ public class DialogManager : MonoBehaviour
     private float DialogCloseTime;
     private float nexttimerspeed;
 
-    // Start is called before the first frame update
     private void Awake()
     {
         QM = FindObjectOfType<QuestsManager>();
@@ -28,7 +27,6 @@ public class DialogManager : MonoBehaviour
         CloseDialogWindow();
     }
 
-    // Update is called once per frame
     void Update()
     {
         NextTextTimer -= nexttimerspeed * Time.deltaTime;

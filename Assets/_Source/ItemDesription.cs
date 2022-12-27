@@ -16,7 +16,7 @@ public class ItemDesription : MonoBehaviour
 
     void Update()
     {
-        DescriptionText.text = @"Описание:
+        DescriptionText.text = @"Description:
 " + DescriptionString;
     }
 }

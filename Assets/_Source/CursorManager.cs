@@ -10,7 +10,6 @@ public class CursorManager : MonoBehaviour
     private float NoStaminaTextTimer;
     private TimeManager TM;
 
-    // Start is called before the first frame update
     private void Awake()
     {
         TM = FindObjectOfType<TimeManager>();
@@ -21,13 +20,12 @@ public class CursorManager : MonoBehaviour
         UpCursorText.text = null;
     }
 
-    // Update is called once per frame
     void Update()
     {
         NoStaminaTextTimer -= 1 * Time.deltaTime;
-        if (NoStaminaTextTimer >= 0) UpCursorText.text = "Ты устал";
-        else if (TM.TimeToSleep == true) UpCursorText.text = @"Уже поздно. Пора спать!
-Завтра сного дел!";
+        if (NoStaminaTextTimer >= 0) UpCursorText.text = "Are you tired";
+        else if (TM.TimeToSleep == true) UpCursorText.text = @"Too late. Time to sleep!
+Tomorrow is busy!";
         else UpCursorText.text = null;
     }
     public void CursorTextOutput(string s, KeyCode kc = KeyCode.None)
@@ -37,8 +35,8 @@ public class CursorManager : MonoBehaviour
     }
     public void SleepTimeText()
     {
-        UpCursorText.text = @"Уже поздно. Пора спать!
-Завтра тебя ждёт много дел!";
+        UpCursorText.text = @"Too late. Time to sleep!
+Tomorrow you have a lot to do!";
     }
     public void NoStaminaText()
     {
